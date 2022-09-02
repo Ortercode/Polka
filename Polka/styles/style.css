@@ -1,0 +1,223 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.hdrTxt 
+{
+    color: rgb(55, 55, 55);
+    text-align: center;
+}
+#player_turn_data
+{
+    position: absolute;
+    left: 2%;
+    top: 1%;
+}
+#current_player
+{
+    color: rgb(46, 133, 248);
+    display: inline;
+}
+#mainGame 
+{
+    position: relative;
+    top: 30px;
+    max-width: 500px;
+    height: 500px;
+
+    margin: 0 auto;
+
+
+}
+
+#gameBg
+{
+    position: relative;
+
+    background: rgb(73, 73, 73);
+    max-width: 100%;
+    height: 500px;
+
+    margin: 0 auto;
+
+    
+}
+
+#boxContainer 
+{
+    position: relative;
+
+    max-width: 100%;
+    height: 500px;
+
+}
+
+.boxes 
+{
+    position: relative;
+    max-width: 30%;
+    height: 30%;
+    background: #333;
+}
+
+#box1
+{
+    position: relative;
+    top: 2.8%;
+    left: 2.8%;
+    
+}
+#box2
+{
+    position: relative;
+    top: 4.8%;
+    left: 2.8%;
+    
+}
+#box3
+{
+    position: relative;
+    top: 6.8%;
+    left: 2.8%;
+    
+}
+
+
+
+
+
+
+#box4
+{
+    position: relative;
+    
+    left: 34.8%;
+    bottom: 87.2%;
+    
+}
+#box5
+{
+    position: relative;
+
+    left: 34.8%;
+    bottom: 85.2%;
+    
+}
+#box6
+{
+    position: relative;
+    
+    left: 34.8%;
+    bottom: 83.2%;
+    
+}
+
+
+
+
+
+
+#box7
+{
+    position: relative;
+
+    left: 66.8%;
+    bottom: 177.2%;
+    
+}
+#box8
+{
+    position: relative;
+   
+    left: 66.8%;
+    bottom: 175.2%;
+    
+}
+#box9
+{
+    position: relative;
+   
+    left: 66.8%;
+    bottom: 173.2%;
+}
+
+.polkaDots 
+{
+    position: relative;
+    top: 30%;
+    background: white;
+    max-width: 40%;
+    height: 35%;
+    
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+#polka1 
+{
+  opacity: 0%;
+  background: white;
+}
+ 
+#polka2
+{
+  opacity: 0%;
+  background: white;
+}
+
+#polka3
+{
+  opacity: 0%; 
+  background: white;    
+}
+
+
+
+
+
+#polka4
+{
+  opacity: 0%;
+  background: white;  
+}
+
+#polka5 
+{
+  opacity: 0%;
+  background: white;  
+}
+#polka6 
+{
+  opacity: 0%;
+  background: white;    
+}
+
+
+
+
+
+#polka7
+{
+  opacity: 0%;
+  background: white;    
+}
+#polka8 
+{
+  opacity: 0%;
+  background: white;    
+}
+#polka9
+{
+  opacity: 0%;
+  background: white;    
+}
